@@ -1,0 +1,64 @@
+Date : 2022-04-16 15:10:00
+Directory : c:\Users\Gintautas\greenhouse\config
+Total : 30 files,  -320 codes, 479 comments, -58 blanks, all 101 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         30 |       -320 |        479 |        -58 |        101 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                 |         30 |       -320 |        479 |        -58 |        101 |
+| ..                                                                                |         21 |       -539 |       -197 |       -135 |       -871 |
+| ..\app                                                                            |         21 |       -539 |       -197 |       -135 |       -871 |
+| ..\app\Controllers                                                                |          5 |       -299 |       -133 |        -52 |       -484 |
+| ..\app\Controllers\Http                                                           |          5 |       -299 |       -133 |        -52 |       -484 |
+| ..\app\Exceptions                                                                 |          3 |        -49 |        -27 |        -18 |        -94 |
+| ..\app\Middleware                                                                 |          3 |        -40 |        -16 |        -14 |        -70 |
+| ..\app\Models                                                                     |          7 |        -87 |        -21 |        -35 |       -143 |
+| ..\app\Models\Traits                                                              |          1 |        -14 |          0 |         -3 |        -17 |
+| ..\app\Services                                                                   |          1 |        -26 |          0 |         -5 |        -31 |
+| ..\app\Validators                                                                 |          2 |        -38 |          0 |        -11 |        -49 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                          | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\AuthController.js              | JavaScript |        -29 |        -22 |         -8 |        -59 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\GreenhouseControlController.js | JavaScript |        -92 |        -16 |        -15 |       -123 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\HumidityDatumController.js     | JavaScript |        -18 |        -16 |         -5 |        -39 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\TemperatureDatumController.js  | JavaScript |        -18 |        -16 |         -5 |        -39 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\UserController.js              | JavaScript |       -142 |        -63 |        -19 |       -224 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\ForbiddenException.js                | JavaScript |        -13 |          0 |         -5 |        -18 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\HandlerException.js                  | JavaScript |        -23 |        -27 |         -8 |        -58 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\NotFoundException.js                 | JavaScript |        -13 |          0 |         -5 |        -18 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\AdminAccess.js                       | JavaScript |        -12 |         -8 |         -5 |        -25 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\ConvertEmptyStringsToNull.js         | JavaScript |        -14 |          0 |         -4 |        -18 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\FindUser.js                          | JavaScript |        -14 |         -8 |         -5 |        -27 |
+| c:\Users\Gintautas\greenhouse\app\Models\GreenhouseControl.js                     | JavaScript |         -8 |         -1 |         -4 |        -13 |
+| c:\Users\Gintautas\greenhouse\app\Models\HumidityDatum.js                         | JavaScript |         -8 |         -1 |         -4 |        -13 |
+| c:\Users\Gintautas\greenhouse\app\Models\Role.js                                  | JavaScript |        -10 |         -1 |         -4 |        -15 |
+| c:\Users\Gintautas\greenhouse\app\Models\TemperatureDatum.js                      | JavaScript |         -8 |         -1 |         -4 |        -13 |
+| c:\Users\Gintautas\greenhouse\app\Models\Token.js                                 | JavaScript |         -5 |         -1 |         -4 |        -10 |
+| c:\Users\Gintautas\greenhouse\app\Models\Traits\NoTimestamp.js                    | JavaScript |        -14 |          0 |         -3 |        -17 |
+| c:\Users\Gintautas\greenhouse\app\Models\User.js                                  | JavaScript |        -34 |        -16 |        -12 |        -62 |
+| c:\Users\Gintautas\greenhouse\app\Services\AuthorizationService.js                | JavaScript |        -26 |          0 |         -5 |        -31 |
+| c:\Users\Gintautas\greenhouse\app\Validators\StoreUser.js                         | JavaScript |        -23 |          0 |         -6 |        -29 |
+| c:\Users\Gintautas\greenhouse\app\Validators\ValidatorExtender.js                 | JavaScript |        -15 |          0 |         -5 |        -20 |
+| c:\Users\Gintautas\greenhouse\config\app.js                                       | JavaScript |         45 |        177 |         22 |        244 |
+| c:\Users\Gintautas\greenhouse\config\auth.js                                      | JavaScript |         37 |         52 |          7 |         96 |
+| c:\Users\Gintautas\greenhouse\config\bodyParser.js                                | JavaScript |         29 |        119 |         10 |        158 |
+| c:\Users\Gintautas\greenhouse\config\cors.js                                      | JavaScript |          9 |         72 |          7 |         88 |
+| c:\Users\Gintautas\greenhouse\config\database.js                                  | JavaScript |         33 |         42 |          7 |         82 |
+| c:\Users\Gintautas\greenhouse\config\hash.js                                      | JavaScript |         11 |         34 |          5 |         50 |
+| c:\Users\Gintautas\greenhouse\config\roles.js                                     | JavaScript |          5 |          0 |          2 |          7 |
+| c:\Users\Gintautas\greenhouse\config\session.js                                   | JavaScript |         23 |         70 |          9 |        102 |
+| c:\Users\Gintautas\greenhouse\config\shield.js                                    | JavaScript |         27 |        110 |          8 |        145 |
+| Total                                                                             |            |       -320 |        479 |        -58 |        101 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

@@ -1,0 +1,56 @@
+Date : 2022-05-09 22:29:44
+Directory : c:\Users\Gintautas\greenhouse\app
+Total : 24 files,  590 codes, 178 comments, 157 blanks, all 925 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         24 |        590 |        178 |        157 |        925 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                 |         24 |        590 |        178 |        157 |        925 |
+| Controllers                                                                       |          6 |        326 |        113 |         64 |        503 |
+| Controllers\Http                                                                  |          6 |        326 |        113 |         64 |        503 |
+| Exceptions                                                                        |          4 |         62 |         27 |         23 |        112 |
+| Middleware                                                                        |          3 |         40 |         16 |         14 |         70 |
+| Models                                                                            |          8 |         98 |         22 |         40 |        160 |
+| Models\Traits                                                                     |          1 |         14 |          0 |          3 |         17 |
+| Services                                                                          |          1 |         26 |          0 |          5 |         31 |
+| Validators                                                                        |          2 |         38 |          0 |         11 |         49 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                          | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\AuthController.js              | JavaScript |         35 |         22 |         11 |         68 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\GreenhouseControlController.js | JavaScript |        111 |         17 |         20 |        148 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\HumidityDatumController.js     | JavaScript |         48 |         10 |          7 |         65 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\SoilHumidityDatumController.js | JavaScript |         48 |         12 |          6 |         66 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\TemperatureDatumController.js  | JavaScript |         48 |         10 |          7 |         65 |
+| c:\Users\Gintautas\greenhouse\app\Controllers\Http\UserController.js              | JavaScript |         36 |         42 |         13 |         91 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\BadRequestException.js               | JavaScript |         13 |          0 |          5 |         18 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\ForbiddenException.js                | JavaScript |         13 |          0 |          5 |         18 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\Handler.js                           | JavaScript |         23 |         27 |          8 |         58 |
+| c:\Users\Gintautas\greenhouse\app\Exceptions\NotFoundException.js                 | JavaScript |         13 |          0 |          5 |         18 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\AdminAccess.js                       | JavaScript |         12 |          8 |          5 |         25 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\ConvertEmptyStringsToNull.js         | JavaScript |         14 |          0 |          4 |         18 |
+| c:\Users\Gintautas\greenhouse\app\Middleware\FindUser.js                          | JavaScript |         14 |          8 |          5 |         27 |
+| c:\Users\Gintautas\greenhouse\app\Models\GreenhouseControl.js                     | JavaScript |          8 |          1 |          4 |         13 |
+| c:\Users\Gintautas\greenhouse\app\Models\HumidityDatum.js                         | JavaScript |          8 |          1 |          4 |         13 |
+| c:\Users\Gintautas\greenhouse\app\Models\Role.js                                  | JavaScript |         10 |          1 |          4 |         15 |
+| c:\Users\Gintautas\greenhouse\app\Models\SoilHumidityDatum.js                     | JavaScript |          8 |          1 |          4 |         13 |
+| c:\Users\Gintautas\greenhouse\app\Models\TemperatureDatum.js                      | JavaScript |          8 |          1 |          4 |         13 |
+| c:\Users\Gintautas\greenhouse\app\Models\Token.js                                 | JavaScript |          5 |          1 |          4 |         10 |
+| c:\Users\Gintautas\greenhouse\app\Models\Traits\NoTimestamp.js                    | JavaScript |         14 |          0 |          3 |         17 |
+| c:\Users\Gintautas\greenhouse\app\Models\User.js                                  | JavaScript |         37 |         16 |         13 |         66 |
+| c:\Users\Gintautas\greenhouse\app\Services\AuthorizationService.js                | JavaScript |         26 |          0 |          5 |         31 |
+| c:\Users\Gintautas\greenhouse\app\Validators\StoreUser.js                         | JavaScript |         23 |          0 |          6 |         29 |
+| c:\Users\Gintautas\greenhouse\app\Validators\ValidatorExtender.js                 | JavaScript |         15 |          0 |          5 |         20 |
+| Total                                                                             |            |        590 |        178 |        157 |        925 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
